@@ -7,14 +7,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
 <link href="//static.formsmarts.com/css/page-2-2.0.c.css" rel="stylesheet">
-<link rel="shortcut icon" href="//static.formsmarts.com/img/favicon.ico" type="image/x-icon">
 </head>
 
 <body>
 <div class="container">
 <!--hdr-->
 <h1 class="sole-stage">APLAS 2017 REGISTRATION FORM</h1>
-<h2 class="sole-stage">15th Asian Symposium on Programming Languages and Systems</h2>
+<h3 >15th Asian Symposium on Programming Languages and Systems</h3>
 <div id="stage" class="sole-stage">Step 1 of 2: Submit
 </div>
 <!--hdr-->
@@ -127,6 +126,17 @@ syx_lang="en";syx_optional={True:"optional",False:"required"};syx_sto=3600;syx_h
 //--></script>
 
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  
+    <input name="cmd" type="hidden" value="_xclick" /> 
+    <input name="business" type="hidden" value="me@myemail.com" /> 
+    <input name="return" type="hidden" value="n=http://www.yoursite.com/registration-paid" /> 
+    <input name="item_name" type="hidden" value="Registration Fee" /> 
+    <input name="amount" type="hidden" value="20" /> 
+     
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=me@myemail.com&amp;currency_code=USD&amp;amount=20&amp;return=http://www.yoursite.com/registration-paid&amp;item_name=Registration+Fee" target="paypal">Pay and register here.</a>
+ 
+</form>
 
 
 </body>
