@@ -52,7 +52,7 @@ Widget Statue Trophy - $100.00 plus $20.00 shipping
 <input type="hidden" name="cpp_header_image" value="https://yourwebsite.com/logo.jpg">
 <input type="hidden" name="cmd" value="_xclick">
 <!-- Replace "business" value with your PayPal Email Address or Account ID -->
-<input type="hidden" name="business" value="andrecostea@yahoo.com">
+<input type="hidden" name="business" value="andre_costea@yahoo.com">
 <input type="hidden" name="item_name" value="Widget Statue">
 <input type="hidden" name="item_number" value="WS-1001">
 <input type="hidden" name="amount" value="100.00">
@@ -128,7 +128,7 @@ Widget Statue Trophy - $100.00 plus $20.00 shipping
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="add" value="1">
 <!-- Replace "business" value with your PayPal Email Address or Account ID -->
-<input type="hidden" name="business" value="andrecostea@yahoo.com">
+<input type="hidden" name="business" value="andre_costea@yahoo.com">
 <input type="hidden" name="item_name" value="Widget Statue">
 <input type="hidden" name="item_number" value="WS-1001">
 <input type="hidden" name="amount" value="100.00">
@@ -192,7 +192,7 @@ Place:&nbsp;&nbsp;
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="display" value="1">
 <!-- Replace "business" value with your PayPal Email Address or Account ID -->
-<input type="hidden" name="business" value="andrecostea@yahoo.com">
+<input type="hidden" name="business" value="andre_costea@yahoo.com">
 <!-- Replace value with the web page you want the customer to return to -->
 <input type="hidden" name="shopping_url" value="http://www.yourwebsite.com/Shop.html">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
