@@ -1,0 +1,104 @@
+
+               >>> Call for Posters <<<
+
+                     APLAS 2019
+  17th Asian Symposium on Programming Languages and Systems
+
+                   Bali, Indonesia
+               1st - 4th December 2019
+				  
+======================================================================
+APLAS'19
+======================================================================
+See: https://conf.researchr.org/home/aplas-2019
+
+The 17th Asian Symposium on Programming Languages and Systems (APLAS) 
+aims to stimulate programming language research by providing a forum 
+for the presentation of latest results and the exchange of ideas in 
+programming languages and systems. APLAS is based in Asia but is an 
+international forum that serves the worldwide programming languages 
+community. APLAS 2019 will be held in Bali, Indonesia on the 1st – 
+4th December 2019.
+
+======================================================================
+CALL FOR POSTERS
+======================================================================
+See: https://conf.researchr.org/track/aplas-2019/aplas-2019-posters
+
+APLAS 2019 includes a poster session during the conference. The poster 
+session aims to give students, researchers and professionals an 
+opportunity to present technical materials to the research community, 
+and to get responses from other researchers in the field.
+
+Poster contributions are sought in all areas of programming languages 
+and systems, including the following topics:
+
+     Semantics, logics, foundational theory
+     Design of languages, type systems, and foundational calculi
+     Domain-specific languages
+     Compilers, interpreters, abstract machines
+     Program derivation, synthesis, and transformation
+     Program analysis, verification, model-checking
+     Logic, constraint, probabilistic, and quantum programming
+     Software security
+     Concurrency and parallelism
+     Tools and environments for programming and implementation
+
+Submission
+----------
+Each presenter should submit an extended abstract of no longer than two 
+8.5 x 11 inch pages in PDF by 20 September.  The submission should include 
+the title and the complete list of author(s) and affiliation(s). Your 
+abstract should contain a brief description of your problem, the key 
+contributions of your work, how your work compares to prior research, 
+as well as any results from evaluation.  
+
+You can use ths ACM template to format your submission:
+        https://www.acm.org/publications/proceedings-template.
+
+We hope to accommodate every presentation, but may restrict them (based 
+on relevance and interest to the community) due to space constraints.
+
+Important Dates
+---------------
+
+* Submission due: 20th September 2019 (Friday), 23:59 AoE
+* Author Notification: 25th September 2019 (Wednesday)
+* Conference: 1st - 4th December 2019 (Sunday - Wednesday)
+
+======================================================================
+Student Research Competition (SRC)
+======================================================================
+See: https://conf.researchr.org/track/aplas-2019/aplas-2019-posters#Student-Research-Competition
+
+By default, every accepted poster of APLAS 2019 will participate in a 
+Student Research Competition (SRC) unless the authors explicitly express 
+their wish not do so. To unsubscribe from SRC kindly email the poster 
+chair with the subject "Unsubscribe from APLAS19 SRC", providing details 
+such as author names and the poster submission number. The competition 
+consists of the following phases:
+
+1. Extended abstract: to participate in the SRC, one needs to have 
+submitted an extended abstract via the APLAS 2019 posters track and 
+to have been accepted for the poster session.
+
+2. Poster Session (during the conference): During the poster session 
+of APLAS 2019, a panel formed of poster committee members will discuss 
+with each poster presenter to asses their work and to provide feedback 
+with respect to their research direction. This committee also chooses 
+at least three posters to advance to phase 3.
+
+3. Short Talk (during the conference): the authors reaching this phase 
+will have the opportunity to present their work during the APLAS 2019 
+Research Papers track during one of the sessions.
+
+Note: This Student Research Competition is NOT a part of ACM SRC;
+
+======================================================================
+Poster Chair: 
+======================================================================
+Andreea Costea, School of Computing, National University of Singapore.
+
+Contact
+-------
+https://conf.researchr.org/track/aplas-2019/aplas-2019-posters#About
