@@ -479,6 +479,7 @@ div.portfolio {
     padding: 11px 13px;
 }
 
+
 tr:nth-child(1) > td {
     border-top:0px;
 }
@@ -493,6 +494,23 @@ tr > td:nth-child(1){
 
 tr > td:nth-child(2) {
     font-weight: 400;
+}
+
+
+.mytable {
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+
+.mytable > tbody > tr > td {
+    padding: 15px;
+    line-height: 25px;
+    letter-spacing: 0.6px;
+    border: 1px solid #e4e4e4;
+}
+
+.mytable tr > td {
+    padding: 11px 13px;
 }
 
 
